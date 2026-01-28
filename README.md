@@ -10,3 +10,4 @@ Petit répertoire pour conserver quelque part les bonnes pratiques et usage de g
 
 # TUTO-LARAVEL
 Lors ce que je lance un programme LARAVEL depuis LARAGON, ne pas oublier NPM INSTALL et NPM RUN DEV (puis à la fin NPM RUN BUILD)
+Ensuite ne pas hésiter d'appuyer sur STOP dans laragon puis START ALL
