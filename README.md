@@ -4,23 +4,23 @@
 <h2> Dès que je démarre VSC pour travailler </h2>
 -   git pull
 <h2>Dès que j'ai fini et que je veux envoyer</h2>
-- git add . (ne pas oublier le point)
-- git commit -m "votre message"
-- git push
+- git add . (ne pas oublier le point) <br>
+- git commit -m "votre message" <br>
+- git push <br>
 
 # LARAGON-LARAVEL
 <h2> Lancer une app laravel depuis Laragon </h2>
-- Une fois fais sur VSC :
-1. npm install
-2. npm run dev
-IMPORTANT!! Tout quitter (stop all laragon > quitter)
-- relancer laragon
+- Une fois fais sur VSC : <br>
+1. npm install <br>
+2. npm run dev <br>
+IMPORTANT!! Tout quitter (stop all laragon > quitter) <br>
+- relancer laragon <br>
 
 # FASTAPI
 <h2> Lancer un programme Python sur VSC </h2>
-- Une fois sur VSC:
-1. python -m venv venv
-2. .\venv\Scripts\activate
-3. pip install "fastapi[standard]"
-4. fastapi dev main.py // remplacer main.py par le nom du fichier.
-5. deactivate pour arrêter le serveur.
+- Une fois sur VSC: <br>
+1. python -m venv venv <br>
+2. .\venv\Scripts\activate <br>
+3. pip install "fastapi[standard]" <br>
+4. fastapi dev main.py // remplacer main.py par le nom du fichier. <br>
+5. deactivate pour arrêter le serveur. <br>
