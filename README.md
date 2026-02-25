@@ -24,3 +24,10 @@ IMPORTANT!! Tout quitter (stop all laragon > quitter) <br>
 3. pip install "fastapi[standard]" <br>
 4. fastapi dev main.py // remplacer main.py par le nom du fichier. <br>
 5. deactivate pour arrêter le serveur. <br>
+
+# DJANGO
+<h2> Dans mon dossier Django créer un répertoire pour le projet</h2>
+- Une fois sur VSC: <br>
+1. python -m venv venv <br>
+2. .\venv\Scripts\activate <br>
+3. pip install django
