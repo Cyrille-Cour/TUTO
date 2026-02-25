@@ -33,3 +33,5 @@ IMPORTANT!! Tout quitter (stop all laragon > quitter) <br>
 3. pip install django <br>
 4. django-admin startproject nomduprojet . <br>
 5. py manage.py runserver (Lancer le server) <br>
+6. py manage.py startapp nomdelapp (Créer une app) <br>
+Un projet est un ensemble de réglages et d’applications pour un site Web particulier. Un projet peut contenir plusieurs applications. Une application peut apparaître dans plusieurs projets. <br>
