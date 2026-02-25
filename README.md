@@ -32,3 +32,4 @@ IMPORTANT!! Tout quitter (stop all laragon > quitter) <br>
 2. .\venv\Scripts\activate <br>
 3. pip install django <br>
 4. django-admin startproject nomduprojet . <br>
+5. py manage.py runserver (Lancer le server) <br>
